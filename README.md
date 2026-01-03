@@ -164,7 +164,7 @@ This project is open source and available for educational purposes.
 
 ## 🙏 Acknowledgments
 
-- Inspired by the [roadmap.sh](https://roadmap.sh/projects/number-guessing-game) backend projects
+- Inspired by the [roadmap.sh](https://roadmap.sh/projects/number-guessing-game) backend [projects](https://roadmap.sh/projects/number-guessing-game)
 - Thanks to the Java community for excellent documentation
 
 ---
